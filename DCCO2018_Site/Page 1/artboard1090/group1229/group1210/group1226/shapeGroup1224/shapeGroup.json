@@ -1,0 +1,186 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "shapeGroup1224",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 55,
+    "width": 180,
+    "x": 152,
+    "y": 129
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-0"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-1"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-2"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-3"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-4"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-5"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-6"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-7"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-8"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-9"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-10"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-11"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-12"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-13"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-14"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-15"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-16"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-17"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-18"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-19"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-20"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-21"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-22"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-23"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-24"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-25"
+    },
+    {
+      "class": "shapePath",
+      "id": "shapePathsp-1224-0-26"
+    }
+  ],
+  "name": "Combined shape 1224",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8666667,
+          "green": 0.8666667,
+          "red": 0.8666667
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      },
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4392157,
+          "green": 0.4392157,
+          "red": 0.4392157
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

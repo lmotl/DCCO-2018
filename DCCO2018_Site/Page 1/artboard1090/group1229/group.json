@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "group1229",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 846,
+    "width": 851,
+    "x": 324,
+    "y": 2146
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "group1210"
+    },
+    {
+      "class": "text",
+      "id": "text-1197"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "shapeGroup1227"
+    },
+    {
+      "class": "text",
+      "id": "text-1228"
+    },
+    {
+      "class": "text",
+      "id": "text-1212"
+    },
+    {
+      "class": "text",
+      "id": "text-1213"
+    }
+  ],
+  "name": "Sponsor Billboard",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

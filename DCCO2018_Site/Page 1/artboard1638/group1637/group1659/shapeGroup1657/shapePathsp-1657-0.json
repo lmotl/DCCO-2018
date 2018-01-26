@@ -1,0 +1,81 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": 0,
+  "do_objectID": "shapePathsp-1657-0",
+  "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 43,
+    "width": 189,
+    "x": 0,
+    "y": 0
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Shape sp-1657-0",
+  "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "pointRadiusBehaviour": 0,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.010581, 0.023257}",
+        "curveMode": 1,
+        "curveTo": "{0.010581, 0.023257}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.010581, 0.023257}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.98941900000000005, 0.023257}",
+        "curveMode": 1,
+        "curveTo": "{0.98941900000000005, 0.023257}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.98941900000000005, 0.023257}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.98941900000000005, 0.95348999999999995}",
+        "curveMode": 1,
+        "curveTo": "{0.98941900000000005, 0.95348999999999995}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.98941900000000005, 0.95348999999999995}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.010581, 0.95348999999999995}",
+        "curveMode": 1,
+        "curveTo": "{0.010581, 0.95348999999999995}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.010581, 0.95348999999999995}"
+      }
+    ]
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
+}
