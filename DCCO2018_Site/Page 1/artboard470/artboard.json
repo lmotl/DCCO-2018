@@ -60,16 +60,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "bitmap364"
+      "class": "group",
+      "id": "group3521"
     },
     {
-      "class": "bitmap",
-      "id": "bitmap1997"
-    },
-    {
-      "class": "bitmap",
-      "id": "bitmap365"
+      "class": "group",
+      "id": "group3528"
     },
     {
       "class": "group",
@@ -110,6 +106,14 @@
     {
       "class": "shapeGroup",
       "id": "shapeGroup467"
+    },
+    {
+      "class": "group",
+      "id": "group3493"
+    },
+    {
+      "class": "group",
+      "id": "group3535"
     }
   ],
   "name": "Home",

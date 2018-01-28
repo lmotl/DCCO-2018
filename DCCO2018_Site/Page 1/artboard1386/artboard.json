@@ -60,16 +60,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "bitmap1232"
-    },
-    {
       "class": "group",
       "id": "group1260"
-    },
-    {
-      "class": "bitmap",
-      "id": "bitmap1410"
     },
     {
       "class": "group",
@@ -106,6 +98,14 @@
     {
       "class": "shapeGroup",
       "id": "shapeGroup1385"
+    },
+    {
+      "class": "group",
+      "id": "group3549"
+    },
+    {
+      "class": "group",
+      "id": "group3554"
     }
   ],
   "name": "Volunteer",

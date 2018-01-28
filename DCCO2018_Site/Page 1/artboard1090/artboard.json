@@ -120,12 +120,12 @@
       "id": "bitmap2467"
     },
     {
-      "class": "bitmap",
-      "id": "bitmap975"
+      "class": "group",
+      "id": "group3542"
     },
     {
-      "class": "bitmap",
-      "id": "bitmap2710"
+      "class": "group",
+      "id": "group3559"
     }
   ],
   "name": "Sponsor",

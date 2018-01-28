@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 657,
-    "width": 1404,
-    "x": -2,
-    "y": 1717
+    "height": 458,
+    "width": 687,
+    "x": 347,
+    "y": 1815
   },
   "hasClickThrough": true,
   "isFlippedHorizontal": false,
@@ -25,10 +25,6 @@
   "isVisible": false,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "shapeGroup1234"
-    },
     {
       "class": "group",
       "id": "group1242"

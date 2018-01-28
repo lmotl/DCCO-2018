@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2430,
+    "height": 2480,
     "width": 1400,
     "x": 7167,
     "y": 0
@@ -60,16 +60,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "bitmap1548"
+      "class": "group",
+      "id": "group3611"
     },
     {
-      "class": "bitmap",
-      "id": "bitmap1549"
-    },
-    {
-      "class": "bitmap",
-      "id": "bitmap2001"
+      "class": "group",
+      "id": "group3618"
     },
     {
       "class": "group",
@@ -130,6 +126,14 @@
     {
       "class": "group",
       "id": "group1736"
+    },
+    {
+      "class": "group",
+      "id": "group3576"
+    },
+    {
+      "class": "group",
+      "id": "group3583"
     }
   ],
   "name": "News Detail",
